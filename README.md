@@ -1,5 +1,7 @@
 # Gemini Watermark Remover (Python)
 
+Originally made for [mollyn.org/coffee](https://mollyn.org/coffee)
+
 A Python implementation of the reverse alpha blending algorithm for removing Gemini AI watermarks from generated images.
 
 Based on the JavaScript implementation: [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)
@@ -94,7 +96,5 @@ MIT
 - JavaScript implementation: [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)
 
 ---
-
-Originally made for [mollyn.org/coffee](https://mollyn.org/coffee)
 
 Made with Claude Code
