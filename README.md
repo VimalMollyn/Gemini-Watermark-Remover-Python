@@ -4,6 +4,12 @@ A Python implementation of the reverse alpha blending algorithm for removing Gem
 
 Based on the JavaScript implementation: [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)
 
+## Example
+
+| Input (with watermark) | Output (watermark removed) |
+|:----------------------:|:--------------------------:|
+| ![Input](examples/input.png) | ![Output](examples/output.png) |
+
 ## How It Works
 
 Gemini applies watermarks using standard alpha compositing:
@@ -86,3 +92,7 @@ MIT
 
 - Original algorithm: [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) (C++)
 - JavaScript implementation: [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)
+
+---
+
+Made with Claude Code
