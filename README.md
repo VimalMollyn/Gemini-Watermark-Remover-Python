@@ -95,4 +95,6 @@ MIT
 
 ---
 
+Originally made for [mollyn.org/coffee](https://mollyn.org/coffee)
+
 Made with Claude Code
